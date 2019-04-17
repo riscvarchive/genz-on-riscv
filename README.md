@@ -7,7 +7,7 @@ possibilities with the ISA could lead to extensive collaboration with Gen-Z to b
 
 Refer to [High level arichtecure of RISC-V processor integrated Gen-Z solution](https://genzconsortium.org/wp-content/uploads/2019/04/Accelerating-Innovation-Using-RISC-V-and-Gen-Z_V1.pdf).
 
-This repository is created for the further dicusssions and prove concept of RISC-V processor-integrated Gen-Z project.
+This public repository is created for the further dicusssions and prove concept of RISC-V processor-integrated Gen-Z project.
 
 **WORK IN PROGRESS**
   
